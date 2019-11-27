@@ -44,3 +44,4 @@ sysinfo.txt
 # End of https://www.gitignore.io/api/unity
 /Logs
 /bin
+/VFX Workshop/*.csproj
