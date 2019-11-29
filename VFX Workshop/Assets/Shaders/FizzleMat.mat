@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: FizzleMat
   m_Shader: {fileID: 4800000, guid: 718205fbdc6b7d04c8b39119e1b68d20, type: 3}
-  m_ShaderKeywords: BOOLEAN_E2A3E20F_ON
+  m_ShaderKeywords: BOOLEAN_6A8FDB3C_ON BOOLEAN_E2A3E20F_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -51,14 +51,14 @@ Material:
     - Boolean_6A8FDB3C: 1
     - Boolean_E2A3E20F: 1
     - Vector1_4B7F41B9: 30
-    - Vector1_5A3DC2BF: 0
-    - Vector1_644A322E: 1
+    - Vector1_5A3DC2BF: 0.164
+    - Vector1_644A322E: 0.59
     - Vector1_6670FD1F: 1
-    - Vector1_69AC38D2: 1.39
+    - Vector1_69AC38D2: 1.19
     - Vector1_6DC2C68C: 0.1
     - Vector1_95EA24F0: -0.89
     - Vector1_AA15E935: 0.01
-    - Vector1_C4A61BF2: 0.12
+    - Vector1_C4A61BF2: 0.18
     - Vector1_CC62C27B: 0.77
     - Vector1_F54DE67E: 0.543
     - _AlphaClip: 0
