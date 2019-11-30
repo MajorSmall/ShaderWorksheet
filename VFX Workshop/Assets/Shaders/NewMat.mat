@@ -23,6 +23,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Cubemap_E7F2AB11:
+        m_Texture: {fileID: 8900000, guid: 86db6a882a5fd1d46be94657a6029fe3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture2D_2A545FE9:
         m_Texture: {fileID: 2800000, guid: 4874535d3497b284391aa817269d9f97, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -49,6 +53,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_C0744C65_Cube:
+        m_Texture: {fileID: 8900000, guid: 3ac06384571b50d4bba01a3b37f318cc, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_21C7B043_Texture:
